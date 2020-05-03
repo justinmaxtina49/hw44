@@ -13,6 +13,7 @@
 		ABA3C543245F003500829E12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABA3C542245F003500829E12 /* Assets.xcassets */; };
 		ABA3C546245F003500829E12 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABA3C545245F003500829E12 /* Preview Assets.xcassets */; };
 		ABA3C549245F003500829E12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABA3C547245F003500829E12 /* LaunchScreen.storyboard */; };
+		ABA3C551245F087D00829E12 /* secendView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA3C550245F087D00829E12 /* secendView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ABA3C545245F003500829E12 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ABA3C548245F003500829E12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ABA3C54A245F003500829E12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ABA3C550245F087D00829E12 /* secendView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secendView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				ABA3C53C245F002F00829E12 /* AppDelegate.swift */,
 				ABA3C53E245F002F00829E12 /* SceneDelegate.swift */,
 				ABA3C540245F002F00829E12 /* ContentView.swift */,
+				ABA3C550245F087D00829E12 /* secendView.swift */,
 				ABA3C542245F003500829E12 /* Assets.xcassets */,
 				ABA3C547245F003500829E12 /* LaunchScreen.storyboard */,
 				ABA3C54A245F003500829E12 /* Info.plist */,
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ABA3C551245F087D00829E12 /* secendView.swift in Sources */,
 				ABA3C53D245F002F00829E12 /* AppDelegate.swift in Sources */,
 				ABA3C53F245F002F00829E12 /* SceneDelegate.swift in Sources */,
 				ABA3C541245F002F00829E12 /* ContentView.swift in Sources */,
